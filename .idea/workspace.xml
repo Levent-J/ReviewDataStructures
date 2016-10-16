@@ -26,10 +26,33 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7512563">
-              <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+            <state vertical-scroll-proportion="0.8844221">
+              <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
               <folding>
-                <element signature="e#169#178#0" expanded="true" />
+                <element signature="e#151#160#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AvlTree.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/AvlTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="97" column="44" selection-start-line="97" selection-start-column="44" selection-end-line="97" selection-end-column="44" />
+              <folding>
+                <element signature="e#152#153#0" expanded="true" />
+                <element signature="e#184#185#0" expanded="true" />
+                <element signature="e#2197#2198#0" expanded="true" />
+                <element signature="e#2240#2241#0" expanded="true" />
+                <element signature="e#2282#2283#0" expanded="true" />
+                <element signature="e#2330#2331#0" expanded="true" />
+                <element signature="e#2513#2514#0" expanded="true" />
+                <element signature="e#2548#2549#0" expanded="true" />
+                <element signature="e#2581#2582#0" expanded="true" />
+                <element signature="e#2614#2615#0" expanded="true" />
+                <element signature="e#2985#2986#0" expanded="true" />
+                <element signature="e#3032#3033#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -38,23 +61,11 @@
       <file leaf-file-name="BinarySearchTree.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/BinarySearchTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="75" column="55" selection-start-line="75" selection-start-column="55" selection-end-line="75" selection-end-column="55" />
+            <state vertical-scroll-proportion="-5.818182">
+              <caret line="39" column="4" selection-start-line="39" selection-start-column="4" selection-end-line="41" selection-end-column="5" />
               <folding>
-                <element signature="e#216#217#0" expanded="true" />
-                <element signature="e#241#242#0" expanded="true" />
-                <element signature="e#271#272#0" expanded="true" />
-                <element signature="e#296#297#0" expanded="true" />
-                <element signature="e#327#328#0" expanded="true" />
-                <element signature="e#360#361#0" expanded="true" />
-                <element signature="e#395#396#0" expanded="true" />
-                <element signature="e#434#435#0" expanded="true" />
                 <element signature="e#726#727#0" expanded="true" />
                 <element signature="e#761#762#0" expanded="true" />
-                <element signature="e#792#793#0" expanded="true" />
-                <element signature="e#827#828#0" expanded="true" />
-                <element signature="e#3239#3240#0" expanded="true" />
-                <element signature="e#3283#3284#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -78,6 +89,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/BinarySearchTree.java" />
+        <option value="$PROJECT_DIR$/src/AvlTree.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
       </list>
     </option>
@@ -614,12 +626,12 @@
       <created>1476615928023</created>
       <option name="number" value="Default" />
       <updated>1476615928023</updated>
-      <workItem from="1476615933010" duration="3982000" />
+      <workItem from="1476615933010" duration="7327000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3982000" />
+    <option name="totallyTimeSpent" value="7327000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="24" width="1366" height="744" extended-state="6" />
@@ -663,10 +675,10 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32917318" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32917318" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -691,33 +703,42 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/BinarySearchTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="75" column="55" selection-start-line="75" selection-start-column="55" selection-end-line="75" selection-end-column="55" />
+        <state vertical-scroll-proportion="-5.818182">
+          <caret line="39" column="4" selection-start-line="39" selection-start-column="4" selection-end-line="41" selection-end-column="5" />
           <folding>
-            <element signature="e#216#217#0" expanded="true" />
-            <element signature="e#241#242#0" expanded="true" />
-            <element signature="e#271#272#0" expanded="true" />
-            <element signature="e#296#297#0" expanded="true" />
-            <element signature="e#327#328#0" expanded="true" />
-            <element signature="e#360#361#0" expanded="true" />
-            <element signature="e#395#396#0" expanded="true" />
-            <element signature="e#434#435#0" expanded="true" />
             <element signature="e#726#727#0" expanded="true" />
             <element signature="e#761#762#0" expanded="true" />
-            <element signature="e#792#793#0" expanded="true" />
-            <element signature="e#827#828#0" expanded="true" />
-            <element signature="e#3239#3240#0" expanded="true" />
-            <element signature="e#3283#3284#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AvlTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="97" column="44" selection-start-line="97" selection-start-column="44" selection-end-line="97" selection-end-column="44" />
+          <folding>
+            <element signature="e#152#153#0" expanded="true" />
+            <element signature="e#184#185#0" expanded="true" />
+            <element signature="e#2197#2198#0" expanded="true" />
+            <element signature="e#2240#2241#0" expanded="true" />
+            <element signature="e#2282#2283#0" expanded="true" />
+            <element signature="e#2330#2331#0" expanded="true" />
+            <element signature="e#2513#2514#0" expanded="true" />
+            <element signature="e#2548#2549#0" expanded="true" />
+            <element signature="e#2581#2582#0" expanded="true" />
+            <element signature="e#2614#2615#0" expanded="true" />
+            <element signature="e#2985#2986#0" expanded="true" />
+            <element signature="e#3032#3033#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7512563">
-          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+        <state vertical-scroll-proportion="0.8844221">
+          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
           <folding>
-            <element signature="e#169#178#0" expanded="true" />
+            <element signature="e#151#160#0" expanded="true" />
           </folding>
         </state>
       </provider>
